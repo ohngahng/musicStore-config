@@ -8,3 +8,4 @@ mysql:
     database: steeltoe
     username: root
     password: steeltoe
+    host: 192.168.99.100
